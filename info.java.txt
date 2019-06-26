@@ -1,2 +1,6 @@
 welcome to devops
+<<<<<<< HEAD
 modified by dev1
+=======
+modified by dev6
+>>>>>>> 2937e8c17241348b304d2f655eb7315ab894e82d
